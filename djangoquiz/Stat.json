@@ -1,0 +1,1002 @@
+[
+ {
+   "si_no": 1,
+   "level": 1,
+   "question": "Which of these measures are used to analyze the central tendency of data?",
+   "ch_1": "Mean and Normal Distribution",
+   "ch_2": "Mean, Median and Mode",
+   "ch_3": "Mode, Alpha & Range",
+   "ch_4": "Standard Deviation, Range and Mean",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 2,
+   "level": 1,
+   "question": "Five numbers are given: (5, 10, 15, 5, 15). Now, what would be the sum of deviations of individual data points from their mean?",
+   "ch_1": "10",
+   "ch_2": "25",
+   "ch_3": "50",
+   "ch_4": "0",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 3,
+   "level": 1,
+   "question": "A test is administered annually. The test has a mean score of 150 and a standard deviation of 20. If Ravi’s z-score is 1.50, what was his score on the test?",
+   "ch_1": "180",
+   "ch_2": "130",
+   "ch_3": "30",
+   "ch_4": "150",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 4,
+   "level": 1,
+   "question": "Which of the following measures of central tendency will always change if a single value in the data changes?",
+   "ch_1": "Mean",
+   "ch_2": "Median",
+   "ch_3": "Mode",
+   "ch_4": "All of these",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 5,
+   "level": 1,
+   "question": "Which of the following statements are true about Bessels Correction while calculating a sample standard deviation?\n\n1. Bessels correction is always done when we perform any operation on a sample data.\n2. Bessels correction is used when we are trying to estimate population standard deviation from the sample.\n3. Bessels corrected standard deviation is less biased.",
+   "ch_1": "Only 2",
+   "ch_2": "Only 3",
+   "ch_3": "Both 2 and 3",
+   "ch_4": "Both 1 and 3",
+   "answer": "Ch-3"
+ },
+ {
+   "si_no": 6,
+   "level": 1,
+   "question": "If the variance of a dataset is correctly computed with the formula using (n – 1) in the denominator, which of the following option is true?",
+   "ch_1": "Dataset is a sample",
+   "ch_2": "Dataset is a population",
+   "ch_3": "Dataset could be either a sample or a population",
+   "ch_4": "Dataset is from a census",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 7,
+   "level": 1,
+   "question": "What would be the critical values of Z for 98% confidence interval for a two-tailed test ?",
+   "ch_1": "\"+/-\" 2.33",
+   "ch_2": "\"+/-\"1.96",
+   "ch_3": "\"+/-\"1.64",
+   "ch_4": "\"+/-\"2.55",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 8,
+   "level": 1,
+   "question": "Studies show that listening to music while studying can improve your memory. To demonstrate this, a researcher obtains a sample of 36 college students and gives them a standard memory test while they listen to some background music. Under normal circumstances (without music), the mean score obtained was 25 and standard deviation is 6. The mean score for the sample after the experiment (i.e With music) is 28. (Question 8-10). \nWhat is the null hypothesis in this case?",
+   "ch_1": "Listening to music while studying will not impact memory.",
+   "ch_2": "Listening to music while studying may worsen memory.",
+   "ch_3": "Listening to music while studying may improve memory.",
+   "ch_4": "Listening to music while studying will not improve memory but can make it worse.",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 9,
+   "level": 1,
+   "question": "What would be the Type I error?",
+   "ch_1": "Concluding that listening to music while studying improves memory, and it’s right.",
+   "ch_2": "Concluding that listening to music while studying improves memory when it actually doesn’t.",
+   "ch_3": "Concluding that listening to music while studying does not improve memory but it does.",
+   "ch_4": "None of the above",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 10,
+   "level": 1,
+   "question": "After performing the Z-test, what can we conclude ____ ?",
+   "ch_1": "Listening to music does not improve memory.",
+   "ch_2": "Listening to music significantly improves memory at p",
+   "ch_3": "The information is insufficient for any conclusion.",
+   "ch_4": "None of the above",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 11,
+   "level": 1,
+   "question": "A researcher concludes from his analysis that a placebo cures AIDS. What type of error is he making?",
+   "ch_1": "Type 1 error",
+   "ch_2": "Type 2 error",
+   "ch_3": "None of these. The researcher is not making an error.",
+   "ch_4": "Cannot be determined",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 12,
+   "level": 1,
+   "question": "What happens to the confidence interval when we introduce some outliers to the data?",
+   "ch_1": "Confidence interval is robust to outliers",
+   "ch_2": "Confidence interval will increase with the introduction of outliers.",
+   "ch_3": "Confidence interval will decrease with the introduction of outliers.",
+   "ch_4": "We cannot determine the confidence interval in this case.",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 13,
+   "level": 1,
+   "question": "Which of the following is the probability calculus of beliefs, given that beliefs follow certain rules ?",
+   "ch_1": "Bayesian probability",
+   "ch_2": "Frequency probability",
+   "ch_3": "Frequency inference",
+   "ch_4": "Bayesian inference",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 14,
+   "level": 1,
+   "question": "Point out the correct statement:",
+   "ch_1": "Bayesian inference is the use of Bayesian probability representation of beliefs to perform inference",
+   "ch_2": "NULL is the standard missing data marker used in S",
+   "ch_3": "Frequency inference is the use of Bayesian probability representation of beliefs to perform inference",
+   "ch_4": "None of the Mentioned",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 15,
+   "level": 1,
+   "question": "Which of the following random variable that take on only a countable number of possibilities?",
+   "ch_1": "Discrete",
+   "ch_2": "Non Discrete",
+   "ch_3": "Continous",
+   "ch_4": "None of the Mentioned",
+   "answer": "Ch-3"
+ },
+ {
+   "si_no": 16,
+   "level": 1,
+   "question": " Which of the following is example use of Poisson distribution ?",
+   "ch_1": "Analyzing contigency table data",
+   "ch_2": "Modeling web traffic hits",
+   "ch_3": "Incidence rates",
+   "ch_4": "All of the Mentioned",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 17,
+   "level": 1,
+   "question": "Which of the following form the basis for frequency interpretation of probabilities ?",
+   "ch_1": "Asymptotics",
+   "ch_2": "Symptotics",
+   "ch_3": "Asymmetry",
+   "ch_4": "All of the Mentioned",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 18,
+   "level": 1,
+   "question": "Which of the following is a property of likelihood ?",
+   "ch_1": "Ratios of likelihood values measure the relative evidence of one value of the unknown parameter to another",
+   "ch_2": "Given a statistical model and observed data, all of the relevant information contained in the data regarding the unknown parameter is contained in the likelihood",
+   "ch_3": "The Resultant likelihood is multiplication of individual likelihood",
+   "ch_4": "All of the Mentioned",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 19,
+   "level": 1,
+   "question": "Which of the following is the oldest multiple testing correction ?",
+   "ch_1": "Bonferroni correction",
+   "ch_2": "Bernoulli correction",
+   "ch_3": "Likelihood correction",
+   "ch_4": "All of the Mentioned",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 20,
+   "level": 1,
+   "question": "Which of the following is correct with respect to residuals ?",
+   "ch_1": "Positive residuals are above the line, negative residuals are below",
+   "ch_2": "Positive residuals are below the line, negative residuals are above",
+   "ch_3": "Positive residuals and negative residuals are below the line",
+   "ch_4": "All of the Mentioned",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 21,
+   "level": 2,
+   "question": "Which of the following of a random variable is a measure of spread ?",
+   "ch_1": "Standard deviation",
+   "ch_2": "Variance",
+   "ch_3": "empirical mean",
+   "ch_4": "All of the Mentioned",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 22,
+   "level": 2,
+   "question": "Unlike the commonly used methods for aligning a pair of sequences, the Bayesian method _______ using a particular scoring matrix or designated gap penalties.",
+   "ch_1": "does not depend on",
+   "ch_2": "depends on",
+   "ch_3": "is based on",
+   "ch_4": "involves",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 23,
+   "level": 2,
+   "question": "In the equation of a straight line, Y = mX + c , if c is equal to zero then: ",
+   "ch_1": "Does not cross the X axis.",
+   "ch_2": "The line of best fit cuts the X axis to the left of the Y axis.",
+   "ch_3": "The line of best fit passes through the origin",
+   "ch_4": "The line of best fit cuts the X axis to the left of the Y axis",
+   "answer": "Ch-3"
+ },
+ {
+   "si_no": 24,
+   "level": 2,
+   "question": "If a statistics professor tells his class: \"All those who got 100 on the statistics test got 20 on the mathematics test, and all those that got 100 on the mathematics test got 20 on the statistics test\", he is saying that the correlation between the statistics test and the mathematics test is:",
+   "ch_1": "0",
+   "ch_2": "Positive",
+   "ch_3": "Negative",
+   "ch_4": "Difficult to tell",
+   "answer": "Ch-3"
+ },
+ {
+   "si_no": 25,
+   "level": 2,
+   "question": " Number of observations in regression analysis is considered as",
+   "ch_1": "degree of possibility",
+   "ch_2": "degree of average",
+   "ch_3": "degree of variance",
+   "ch_4": "degree of freedom",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 26,
+   "level": 2,
+   "question": "The average monthly rent for student accommodation is normally distributed with a mean of £280 and a standard deviation of £28. What is the probability that a sample of 49 students will have a (sample) mean monthly rent of £287 or more? ",
+   "ch_1": "0.0499",
+   "ch_2": "0.0401",
+   "ch_3": "0.0023",
+   "ch_4": "0.4041",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 27,
+   "level": 2,
+   "question": "A relationship where the flow of the data points is best represented by a curve is called:",
+   "ch_1": "Linear relationship",
+   "ch_2": "Nonlinear relationship",
+   "ch_3": "Linear positive",
+   "ch_4": "Linear negative",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 28,
+   "level": 2,
+   "question": " Which of the following step / assumption in regression modeling impacts the trade-off between under-fitting and over-fitting the most.",
+   "ch_1": "The polynomial degree",
+   "ch_2": "Whether we learn the weights by matrix inversion or gradient descent",
+   "ch_3": "The use of a constant-term",
+   "ch_4": "None of these",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 29,
+   "level": 2,
+   "question": "In a linear regression problem, we are using “R-squared” to measure goodness-of-fit. We add a feature in linear regression model and retrain the same model.\nWhich of the following option is true?",
+   "ch_1": " If R Squared increases, this variable is significant.",
+   "ch_2": " If R Squared decreases, this variable is not significant.",
+   "ch_3": "Individually R squared cannot tell about variable importance. We can’t say anything about it right now.",
+   "ch_4": "None of these",
+   "answer": "Ch-3"
+ },
+ {
+   "si_no": 30,
+   "level": 2,
+   "question": "Undesirable consequences which causes estimated population variance to appear less as compared to real results are classified as",
+   "ch_1": "undesired error",
+   "ch_2": "bias",
+   "ch_3": "non-calculate error",
+   "ch_4": "non-zero error",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 31,
+   "level": 2,
+   "question": "An unbiased coin is tossed repeatedly until the outcome of two successive tosses is the same. Assuming that the trials are independent, the expected number of tosses is\n",
+   "ch_1": "3",
+   "ch_2": "4",
+   "ch_3": "5",
+   "ch_4": "6",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 32,
+   "level": 2,
+   "question": "Suppose that a shop has an equal number of LED bulbs of two different types. The probability of an LED bulb lasting more than 100 hours given that it is of Type 1 is 0.7, and given that it is of Type 2 is 0.4. The probability that an LED bulb chosen uniformly at random lasts more than 100 hours is :   Note : This question was asked as Numerical Answer Type.",
+   "ch_1": "0.55",
+   "ch_2": "0.7",
+   "ch_3": "0.4",
+   "ch_4": "0.66",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 33,
+   "level": 2,
+   "question": "When a coin is tossed, the probability of getting a Head is p,0<p<1. Let N be the random variable denoting the number of tosses till the first Head appears, including the toss where the Head appears. Assuming that successive tosses are independent, the expected value of N is",
+   "ch_1": "1/p",
+   "ch_2": "1/(1-p)",
+   "ch_3": "1/p2",
+   "ch_4": "1/(1-p2)",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 34,
+   "level": 2,
+   "question": "If the slope of the regression line is calculated to be 2.5 and the intercept 16 then the value of Y when X is 4 is:",
+   "ch_1": "66.5",
+   "ch_2": "2.5",
+   "ch_3": "26",
+   "ch_4": "16",
+   "answer": "Ch-3"
+ },
+ {
+   "si_no": 35,
+   "level": 2,
+   "question": "If Spearman’s co-efficient of rank correlation is equal to one, then: ",
+   "ch_1": "All the ‘total variation’ is ‘explained’ by the regression line",
+   "ch_2": "The rankings of the two variables is totally different",
+   "ch_3": "The rankings of the two variables totally agree",
+   "ch_4": "The rankings of the two variables partially agree",
+   "answer": "Ch-3"
+ },
+ {
+   "si_no": 36,
+   "level": 2,
+   "question": "Which of the one is true about Heteroskedasticity?",
+   "ch_1": "Linear Regression with varying error terms",
+   "ch_2": "Linear Regression with constant error terms",
+   "ch_3": "Linear Regression with zero error terms",
+   "ch_4": "None of these",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 37,
+   "level": 2,
+   "question": "Which of the following is not an example of a time series model?",
+   "ch_1": "Naive approach",
+   "ch_2": "Exponential smoothing",
+   "ch_3": "Moving Average",
+   "ch_4": "None of the above",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 38,
+   "level": 2,
+   "question": "Which of the following can’t be a component for a time series plot?",
+   "ch_1": "Seasonality",
+   "ch_2": "Trend",
+   "ch_3": "Cyclical",
+   "ch_4": "None of the above",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 39,
+   "level": 2,
+   "question": "Sum of weights in exponential smoothing is _____.",
+   "ch_1": "<1",
+   "ch_2": "1",
+   "ch_3": ">1",
+   "ch_4": "None of the above",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 40,
+   "level": 2,
+   "question": "In regression analysis, if observed cost value is 50 and predicted cost value is 7, then disturbance term will be",
+   "ch_1": "57",
+   "ch_2": "67",
+   "ch_3": "47",
+   "ch_4": "43",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 41,
+   "level": 3,
+   "question": "Suppose a fair six-sided die is rolled once. If the value on the die is 1, 2, or 3, the die is rolled a second time. What is the probability that the sum total of values that turn up is at least 6?\n",
+   "ch_1": "10/21",
+   "ch_2": "5/12",
+   "ch_3": "2/3",
+   "ch_4": "1/6",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 42,
+   "level": 3,
+   "question": "If two fair coins are flipped and at least one of the outcomes is known to be a head, what is the probability that both outcomes are heads?",
+   "ch_1": "1/2",
+   "ch_2": "1/3",
+   "ch_3": "2/3",
+   "ch_4": "1/4",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 43,
+   "level": 3,
+   "question": "The last period’s forecast was 70 and demand was 60. What is the simple exponential smoothing forecast with alpha of 0.4 for the next period.",
+   "ch_1": "65",
+   "ch_2": "66",
+   "ch_3": "62",
+   "ch_4": "63.8",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 44,
+   "level": 3,
+   "question": "What does autocovariance measure?",
+   "ch_1": "Linear dependence between multiple points on the different series observed at different times",
+   "ch_2": "Quadratic dependence between two points on the same series observed at different times",
+   "ch_3": "Linear dependence between two points on different series observed at same time",
+   "ch_4": "Linear dependence between two points on the same series observed at different times",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 45,
+   "level": 3,
+   "question": "Which of the following is not a necessary condition for weakly stationary time series?",
+   "ch_1": "Mean is constant and does not depend on time",
+   "ch_2": "Autocovariance function depends on s and t only through their difference |s-t| (where t and s are moments in time)",
+   "ch_3": "The time series under considerations is a finite variance process",
+   "ch_4": "Time series is Gaussian",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 46,
+   "level": 3,
+   "question": "Which of the following is not a technique used in smoothing time series?",
+   "ch_1": "Nearest Neighbour Regression",
+   "ch_2": "Locally weighted scatter plot smoothing",
+   "ch_3": "Tree based models like (CART)",
+   "ch_4": "Smoothing Splines",
+   "answer": "Ch-3"
+ },
+ {
+   "si_no": 47,
+   "level": 3,
+   "question": "If the demand is 100 during October 2016, 200 in November 2016, 300 in December 2016, 400 in January 2017. What is the 3-month simple moving average for February 2017?",
+   "ch_1": "300",
+   "ch_2": "350",
+   "ch_3": "400",
+   "ch_4": "Need more information",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 48,
+   "level": 3,
+   "question": "Point out the correct statement:",
+   "ch_1": "The difference between the class centroids and the overall centroid is used to measure the variable influence",
+   "ch_2": "The Bagged Trees output contains variable usage statistics",
+   "ch_3": "Boosted Trees uses different approach as a single tree",
+   "ch_4": "None of the Mentioned",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 49,
+   "level": 3,
+   "question": "Which of the following function is a wrapper for different lattice plots to visualize the data ?",
+   "ch_1": "levelplot",
+   "ch_2": "featurePlot",
+   "ch_3": " plotsample",
+   "ch_4": "none of the Mentioned",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 50,
+   "level": 3,
+   "question": "",
+   "ch_1": "",
+   "ch_2": "",
+   "ch_3": "",
+   "ch_4": "",
+   "answer": ""
+ },
+ {
+   "si_no": 51,
+   "level": 3,
+   "question": " Which of the following can be used to impute data sets based only on information in the training set. ?",
+   "ch_1": "postProcess",
+   "ch_2": "preProcess",
+   "ch_3": "process",
+   "ch_4": "all of the Mentioned",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 52,
+   "level": 3,
+   "question": "A deck of 5 cards (each carrying a distinct number from 1 to 5) is shuffled thoroughly. Two cards are then removed one at time from the deck. What is the probability that the two cards are selected with the number on the first card being one higher than the number on the second card?",
+   "ch_1": "1/5",
+   "ch_2": "4/25",
+   "ch_3": "1/4",
+   "ch_4": "2/5",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 53,
+   "level": 3,
+   "question": "Imagine, you are working on a time series dataset. Your manager has asked you to build a highly accurate model. You started to build two types of models which are given below.\n\nModel 1: Decision Tree model\n\nModel 2: Time series regression model\n\nAt the end of evaluation of these two models, you found that model 2 is better than model 1. What could be the possible reason for your inference?",
+   "ch_1": "Model 1 couldn’t map the linear relationship as good as Model 2",
+   "ch_2": "Model 1 will always be better than Model 2",
+   "ch_3": "You can’t compare decision tree with time series regression",
+   "ch_4": "None of these",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 54,
+   "level": 3,
+   "question": "Consider the following set of data: \n\n{23.32 32.33 32.88 28.98 33.16 26.33 29.88 32.69 18.98 21.23 26.66 29.89}\n\nWhat is the lag-one sample autocorrelation of the time series?",
+   "ch_1": "0.26",
+   "ch_2": "0.52",
+   "ch_3": "0.13",
+   "ch_4": "0.7",
+   "answer": "Ch-3"
+ },
+ {
+   "si_no": 55,
+   "level": 3,
+   "question": "Autocovariance function for weakly stationary time series does not depend on _______ ? ",
+   "ch_1": "Separation of xs and xt",
+   "ch_2": "h = | s – t |",
+   "ch_3": "Location of point at a particular time",
+   "ch_4": "None of the above",
+   "answer": "Ch-3"
+ },
+ {
+   "si_no": 56,
+   "level": 3,
+   "question": "What will be the variance of the sample following hyper geometric distribution and having 5 items defective in 100 lot items, if 10 samples are taken without replacement?",
+   "ch_1": "0.431818",
+   "ch_2": "0.410023",
+   "ch_3": "0.483838",
+   "ch_4": "0.568898",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 57,
+   "level": 3,
+   "question": "For a Poisson distribution, parameter λ is having a value of 7. What is the variance for the distribution?",
+   "ch_1": "2.64",
+   "ch_2": "2.78",
+   "ch_3": "7",
+   "ch_4": "14",
+   "answer": "Ch-3"
+ },
+ {
+   "si_no": 58,
+   "level": 3,
+   "question": "n a type of probability, analysis is to calculate the odds score for one event OR a second event, or of a series of events. In this case, the odds scores are _______",
+   "ch_1": "multiplied",
+   "ch_2": "subtracted",
+   "ch_3": "added and multiplied",
+   "ch_4": "added",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 59,
+   "level": 3,
+   "question": "A length and distance that gives the highest overall probability may then be determined. Such alignments are initially found using ________",
+   "ch_1": "a particular scoring matrix only",
+   "ch_2": "an alignment algorithm only",
+   "ch_3": "an alignment algorithm and a particular scoring matrix",
+   "ch_4": "dot method",
+   "answer": "Ch-3"
+ },
+ {
+   "si_no": 60,
+   "level": 3,
+   "question": "For 9 Bernoulli trials, what will be the mean of trials when the probability of failure is 0.56?",
+   "ch_1": "5.04",
+   "ch_2": "1.74",
+   "ch_3": "3.96",
+   "ch_4": "2.82",
+   "answer": "Ch-3"
+ },
+ {
+   "si_no": 61,
+   "level": 4,
+   "question": "The equation of variance, i.e. σ2=r(1-p)/p2 is true for _____",
+   "ch_1": "Hyper geometric distribution",
+   "ch_2": "Pascal Distribution",
+   "ch_3": "Normal distribution",
+   "ch_4": "Binomial distribution",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 62,
+   "level": 4,
+   "question": "Bernoulli trials are a part of _____ probability distribution.",
+   "ch_1": "Poission",
+   "ch_2": "Binomial",
+   "ch_3": "Hyper geometric",
+   "ch_4": "Normal",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 63,
+   "level": 4,
+   "question": "Point out the wrong statement:",
+   "ch_1": "In every situation, the data generating mechanism can create predictors that only have a single unique value",
+   "ch_2": " Predictors might have only a handful of unique values that occur with very low frequencies",
+   "ch_3": "The function findLinearCombos uses the QR decomposition of a matrix to enumerate sets of linear combinations",
+   "ch_4": "All of the Mentioned",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 64,
+   "level": 4,
+   "question": "Which of the following function can be used to identify near zero-variance variables ?",
+   "ch_1": "zeroVar",
+   "ch_2": "nearVar",
+   "ch_3": "nearZeroVar",
+   "ch_4": "all of the Mentioned",
+   "answer": "Ch-3"
+ },
+ {
+   "si_no": 65,
+   "level": 4,
+   "question": "Which of the following function can be used to flag predictors for removal ?",
+   "ch_1": "searchCorrelation",
+   "ch_2": "searchCorrelation",
+   "ch_3": "findCorrelation",
+   "ch_4": "none of the Mentioned",
+   "answer": "Ch-3"
+ },
+ {
+   "si_no": 66,
+   "level": 4,
+   "question": "Point out the correct statement:",
+   "ch_1": "findLinearColumns will also return a vector of column positions can be removed to eliminate the linear dependencies",
+   "ch_2": " findLinearCombos will return a list that enumerates dependencies",
+   "ch_3": "The function findLinearRows can be used to generate a complete set of row variables from one factor",
+   "ch_4": "none of the Mentioned",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 67,
+   "level": 4,
+   "question": "Consider a company that assembles computers. The probability of a faulty assembly of any computer is p. The company therefore subjects each computer to a testing process.This testing process gives the correct result for any computer with a probability of q. What is the probability of a computer being declared faulty?",
+   "ch_1": "(1 - q) p",
+   "ch_2": "(1 - p) q",
+   "ch_3": "pq",
+   "ch_4": "pq + (1 - p)(1 - q)",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 68,
+   "level": 4,
+   "question": "Four fair six-sided dice are rolled. The probability that the sum being 22 is X/1296. The value of X is ________",
+   "ch_1": "7",
+   "ch_2": "8",
+   "ch_3": "9",
+   "ch_4": "10",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 69,
+   "level": 4,
+   "question": "The probability that a given positive integer lying between 1 and 100 (both inclusive) is NOT divisible by 2, 3 or 5 is ______ .",
+   "ch_1": "0.259",
+   "ch_2": "0.459",
+   "ch_3": "0.325",
+   "ch_4": "0.225",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 70,
+   "level": 4,
+   "question": "Which is used to choose among multiple consistent hypotheses?",
+   "ch_1": "Razor",
+   "ch_2": "Ockham razor",
+   "ch_3": "Learning element",
+   "ch_4": "None of the mentioned",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 71,
+   "level": 4,
+   "question": "What will happen if the hypothesis space contains the true function?",
+   "ch_1": "Realizable",
+   "ch_2": "Unrealizable",
+   "ch_3": "Both Realizable & Unrealizable",
+   "ch_4": "None of the mentioned",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 72,
+   "level": 4,
+   "question": "How the decision tree reaches its decision?",
+   "ch_1": "Single Test",
+   "ch_2": "Two Test",
+   "ch_3": "Sequence of Test",
+   "ch_4": "No Test",
+   "answer": "Ch-3"
+ },
+ {
+   "si_no": 73,
+   "level": 4,
+   "question": "Decision trees are appropriate for the problems where:",
+   "ch_1": "Attributes are both numeric and nominal",
+   "ch_2": "Target function takes on a discrete number of values.",
+   "ch_3": "Data may have errors",
+   "ch_4": "All of the mentioned",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 74,
+   "level": 4,
+   "question": "varImp is a wrapper around the evimp function in the _______ package.",
+   "ch_1": "numpy",
+   "ch_2": "earth",
+   "ch_3": "plot",
+   "ch_4": "None of the above",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 75,
+   "level": 4,
+   "question": "Which of the following model sums the importance over each boosting iteration ?",
+   "ch_1": "Boosted Trees",
+   "ch_2": "Bagged Trees",
+   "ch_3": "Partial Least Squares",
+   "ch_4": "None of the Mentioned",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 76,
+   "level": 4,
+   "question": "Which of the following model model include a backwards elimination feature selection routine ?",
+   "ch_1": "MCV",
+   "ch_2": "MARS",
+   "ch_3": "MCRS",
+   "ch_4": "All of the Mentioned",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 77,
+   "level": 4,
+   "question": "Suppose p is the number of cars per minute passing through a certain road junction between 5 PM and 6 PM, and p has a Poisson distribution with mean 3. What is the probability of observing fewer than 3 cars during any given minute in this interval?",
+   "ch_1": "8/2e^3",
+   "ch_2": "9/2e^3",
+   "ch_3": "17/2e^3",
+   "ch_4": "26/2e^3",
+   "answer": "Ch-3"
+ },
+ {
+   "si_no": 78,
+   "level": 4,
+   "question": "Out of all the 2-digit integers between 1 and 100, a 2-digit number has to be selected at random. What is the probability that the selected number is not divisible by 7?",
+   "ch_1": "13/90",
+   "ch_2": "12/90",
+   "ch_3": "78/90",
+   "ch_4": "77/90",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 79,
+   "level": 4,
+   "question": " Which of the following statement is correct?\n\n1. If autoregressive parameter (p) in an ARIMA model is 1, it means that there is no auto-correlation in the series.\n2. If moving average component (q) in an ARIMA model is 1, it means that there is auto-correlation in the series with lag 1.\n3. If integrated component (d) in an ARIMA model is 0, it means that the series is not stationary.",
+   "ch_1": "Only 1",
+   "ch_2": "Both 1 and 2",
+   "ch_3": "Only 2",
+   "ch_4": "All of the above",
+   "answer": "Ch-3"
+ },
+ {
+   "si_no": 80,
+   "level": 4,
+   "question": "In a time-series forecasting problem, if the seasonal indices for quarters 1, 2, and 3 are 0.80, 0.90, and 0.95 respectively. What can you say about the seasonal index of quarter 4?",
+   "ch_1": "It will be less than 1",
+   "ch_2": "It will be greater than 1",
+   "ch_3": "It will be equal to 1",
+   "ch_4": "Data is insufficient",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 81,
+   "level": 5,
+   "question": "Another expression for constant variance is",
+   "ch_1": "Leptokracy",
+   "ch_2": "Homoscedacity",
+   "ch_3": "Heteroscedacity",
+   "ch_4": "Covariance",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 82,
+   "level": 5,
+   "question": "Residual plot in regression analysis is used to mean",
+   "ch_1": "Plot of residuals",
+   "ch_2": "Plot of marginally residual value",
+   "ch_3": "Plot of regressors",
+   "ch_4": " Plot of regressing values",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 83,
+   "level": 5,
+   "question": "Assume a simple MLP model with 3 neurons and inputs= 1,2,3. The weights to the input neurons are 4,5 and 6 respectively. Assume the activation function is a linear constant value of 3. What will be the output ?",
+   "ch_1": "32",
+   "ch_2": "643",
+   "ch_3": "96",
+   "ch_4": "48",
+   "answer": "Ch-3"
+ },
+ {
+   "si_no": 84,
+   "level": 5,
+   "question": "Which of following activation function can’t be used at output layer to classify an image ?",
+   "ch_1": "sigmoid",
+   "ch_2": "Tanh",
+   "ch_3": "ReLU",
+   "ch_4": "f(x>5,1,0)",
+   "answer": "Ch-3"
+ },
+ {
+   "si_no": 85,
+   "level": 5,
+   "question": "Which of the following neural network training challenge can be solved using batch normalization?",
+   "ch_1": "Overfitting",
+   "ch_2": "Restrict activations to become too high or low",
+   "ch_3": "Training is too slow",
+   "ch_4": "Both B and C",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 86,
+   "level": 5,
+   "question": "Which of the following is incorrect with respect to use of Poisson distribution ?",
+   "ch_1": " Modeling event/time data",
+   "ch_2": "Modeling bounded count data",
+   "ch_3": "Modeling contingency tables",
+   "ch_4": "All of the Mentioned",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 87,
+   "level": 5,
+   "question": "Which of the following algorithms do we use for Variable Selection?",
+   "ch_1": "LASSO",
+   "ch_2": "Ridge",
+   "ch_3": "Both",
+   "ch_4": "None of these",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 88,
+   "level": 5,
+   "question": "Which of the following option is true?",
+   "ch_1": " Linear Regression errors values has to be normally distributed but in case of Logistic Regression it is not the case",
+   "ch_2": "Logistic Regression errors values has to be normally distributed but in case of Linear Regression it is not the case",
+   "ch_3": "Both Linear Regression and Logistic Regression error values have to be normally distributed",
+   "ch_4": "Both Linear Regression and Logistic Regression error values have not to be normally distributed",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 89,
+   "level": 5,
+   "question": "Which of the following is true regarding the logistic function for any value “x”?\n\nNote:\nLogistic(x): is a logistic function of any number “x”\n\nLogit(x): is a logit function of any number “x”\n\nLogit_inv(x): is a inverse logit function of any number “x”",
+   "ch_1": "Logistic(x) = Logit(x)",
+   "ch_2": "Logistic(x) = Logit_inv(x)",
+   "ch_3": "Logit_inv(x) = Logit(x)",
+   "ch_4": "None of these",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 90,
+   "level": 5,
+   "question": "Which of the following curve analysis is conducted on each predictor for classification ?",
+   "ch_1": "NOC",
+   "ch_2": "ROC",
+   "ch_3": "COC",
+   "ch_4": "All of the Mentioned",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 91,
+   "level": 5,
+   "question": "Point out the wrong statement",
+   "ch_1": "The trapezoidal rule is used to compute the area under the ROC curve",
+   "ch_2": " For regression, the relationship between each predictor and the outcome is evaluated",
+   "ch_3": "An argument, para, is used to pick the model fitting technique",
+   "ch_4": "All of the Mentioned",
+   "answer": "Ch-3"
+ },
+ {
+   "si_no": 92,
+   "level": 5,
+   "question": "Which of the following is statistical boosting based on additive logistic regression ?",
+   "ch_1": "gamBoost",
+   "ch_2": "gdm",
+   "ch_3": "ada",
+   "ch_4": "mboost",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 93,
+   "level": 5,
+   "question": "Which of the following is one of the largest boost subclass in boosting ?",
+   "ch_1": "variance boosting",
+   "ch_2": " gradient boosting",
+   "ch_3": "mean boosting",
+   "ch_4": "all of the Mentioned",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 94,
+   "level": 5,
+   "question": "How many components are present in generalized linear models ?",
+   "ch_1": "2",
+   "ch_2": "4",
+   "ch_3": "6",
+   "ch_4": "None of these",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 95,
+   "level": 5,
+   "question": " Point out the wrong statement:",
+   "ch_1": "Additive response models don’t make much sense if the response is discrete, or strictly positive",
+   "ch_2": "Transformations are often easy to interpret in linear model",
+   "ch_3": "Regression models are used to predict one variable from one or more other variables",
+   "ch_4": "All of the Mentioned",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 96,
+   "level": 5,
+   "question": "Which of the following component is involved in generalized linear models ?",
+   "ch_1": "An exponential family model for the response",
+   "ch_2": "A systematic component via a linear predictor",
+   "ch_3": "A link function that connects the means of the response to the linear predictor",
+   "ch_4": "All of the Mentioned",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 97,
+   "level": 5,
+   "question": "Which of the following analysis is a statistical process for estimating the relationships among variables ?",
+   "ch_1": "Causal",
+   "ch_2": "Regression",
+   "ch_3": "Multivariate",
+   "ch_4": "All of the Mentioned",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 98,
+   "level": 5,
+   "question": "In a bunch of 13 T-shirts only one is of Medium size, which is correct fit for the searching person. Each time wrong size is picked, the person throws it away and pick the next T-shirt. What is the probability that the correct size T-shirt can be searched in 8th attempt ?",
+   "ch_1": "1/1287",
+   "ch_2": "1/330",
+   "ch_3": "5/13",
+   "ch_4": "1/13",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 99,
+   "level": 5,
+   "question": "Consider a link with packet loss probability of 0.2. What is the expected number of transmissions it would take to transfer 200 packets given that the stop and wait protocol is used?",
+   "ch_1": "125",
+   "ch_2": "250",
+   "ch_3": "225",
+   "ch_4": "150",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 100,
+   "level": 5,
+   "question": "A six sided unbiased die with four green faces and two red faces is rolled seven times. Which of the following combinations is the most likely outcome of the experiment?",
+   "ch_1": "Three green faces and four red faces.",
+   "ch_2": "Four green faces and three red faces",
+   "ch_3": "Five green faces and two red faces",
+   "ch_4": "Six green faces and one red face",
+   "answer": "Ch-3"
+ }
+]

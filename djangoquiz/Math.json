@@ -1,0 +1,1002 @@
+[
+ {
+   "si_no": 1,
+   "level": 1,
+   "question": "Vector which describes total population for each relevant region is classified as",
+   "ch_1": "migration vector",
+   "ch_2": "selling vector",
+   "ch_3": "buying vector",
+   "ch_4": "population vector",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 2,
+   "level": 1,
+   "question": "Matrix of coefficients either have no solution or have infinite solutions is system of equations are",
+   "ch_1": "linearly dependent",
+   "ch_2": "linearly independent",
+   "ch_3": "quadratic and independent",
+   "ch_4": "quadratic and dependent",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 3,
+   "level": 1,
+   "question": "In inverse and systems of equations, matrix inverse for systems of equation is used to determine",
+   "ch_1": "identified set of equation",
+   "ch_2": "variable set of equation",
+   "ch_3": "solution set of equations",
+   "ch_4": "constant set of equations",
+   "answer": "Ch-3"
+ },
+ {
+   "si_no": 4,
+   "level": 1,
+   "question": "A is a unitary matrix. Then eigen value of A are",
+   "ch_1": "1, -1",
+   "ch_2": "1, -i ",
+   "ch_3": "i,-i",
+   "ch_4": "-1,i",
+   "answer": ""
+ },
+ {
+   "si_no": 5,
+   "level": 1,
+   "question": "Newton-Raphson method is used to compute a root of the equation x2-13=0 with 3.5 as the initial value. The approximation after one iteration is",
+   "ch_1": "3.575",
+   "ch_2": "3.676",
+   "ch_3": "3.667",
+   "ch_4": "3.607",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 6,
+   "level": 1,
+   "question": "What is the value of Limn->∞(1-1/n)^2n ?",
+   "ch_1": "0",
+   "ch_2": "e^-2",
+   "ch_3": "e^-1/2",
+   "ch_4": "1",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 7,
+   "level": 1,
+   "question": "Two alternative packages A and B are available for processing a database having 10k records.Package A requires 0.0001n2 time units and package B requires 10nlog10n time units to process n records. What is the smallest value of k for which package B will be preferred over A?",
+   "ch_1": "12",
+   "ch_2": "10",
+   "ch_3": "6",
+   "ch_4": "5",
+   "answer": "Ch-3"
+ },
+ {
+   "si_no": 8,
+   "level": 1,
+   "question": "The complexity of searching an element from a set of n elements using Binary search algorithm is",
+   "ch_1": "O(n)",
+   "ch_2": "O(log n)",
+   "ch_3": "O(n^2)",
+   "ch_4": "O(n log n)",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 9,
+   "level": 1,
+   "question": "Convert the infix to postfix for A-(B+C)*(D/E)",
+   "ch_1": "ABC+DE/*-",
+   "ch_2": "ABC-DE/*-",
+   "ch_3": "ABC-DE*/-",
+   "ch_4": "None of these",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 10,
+   "level": 1,
+   "question": "The minimum number of multiplications and additions required to evaluate the polynomial P = 4x^3+3x^2-15x+45 is",
+   "ch_1": "6&3",
+   "ch_2": "4&2",
+   "ch_3": "3&3",
+   "ch_4": "8&3",
+   "answer": "Ch-3"
+ },
+ {
+   "si_no": 11,
+   "level": 1,
+   "question": "If h is any hashing function and is used to hash n keys in to a table of size m, where n<=m, the expected number of collisions involving a particular key x is :",
+   "ch_1": "less than 1",
+   "ch_2": "less than n",
+   "ch_3": "less than m",
+   "ch_4": "less than n/2",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 12,
+   "level": 1,
+   "question": "Formula in which Σ(x-x‾)² is divided by one less than number of observations in sample is classified as",
+   "ch_1": "coefficient of deviation",
+   "ch_2": "mean variance",
+   "ch_3": "sample variance",
+   "ch_4": "population variance",
+   "answer": ""
+ },
+ {
+   "si_no": 13,
+   "level": 1,
+   "question": "In manufacturing company, number of employees in unit A is 40, mean is USD $6400 and number of employees in unit B is 30 with mean of Rs. 5500 then combined arithmetic mean is",
+   "ch_1": "9500",
+   "ch_2": "8000",
+   "ch_3": "7014.29",
+   "ch_4": "6014.29",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 14,
+   "level": 1,
+   "question": "If total sum of square is 20 and sample variance is 5 then total number of observations are",
+   "ch_1": "4",
+   "ch_2": "15",
+   "ch_3": "25",
+   "ch_4": "34",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 15,
+   "level": 1,
+   "question": "Mean of binomial probability distribution is 857.6 and probability is 64% then number of values of binomial distribution",
+   "ch_1": "square root of p",
+   "ch_2": "square root of pq",
+   "ch_3": "square root of npq",
+   "ch_4": "square root of np",
+   "answer": "Ch-3"
+ },
+ {
+   "si_no": 16,
+   "level": 1,
+   "question": "",
+   "ch_1": "",
+   "ch_2": "",
+   "ch_3": "",
+   "ch_4": "",
+   "answer": ""
+ },
+ {
+   "si_no": 17,
+   "level": 1,
+   "question": "Which of the following form the basis for frequency interpretation of probabilities ?",
+   "ch_1": "Asymptotics",
+   "ch_2": "Symptotics",
+   "ch_3": "Asymmetry",
+   "ch_4": "All of the Mentioned",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 18,
+   "level": 1,
+   "question": "Which of the following theorem states that the distribution of averages of iid variables, properly normalized, becomes that of a standard normal as the sample size increases ?",
+   "ch_1": "Central Limit Theorem",
+   "ch_2": "Central Mean Theorem",
+   "ch_3": "Centroid Limit Theorem",
+   "ch_4": "All of the Mentioned",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 19,
+   "level": 1,
+   "question": "Point out the correct statement:",
+   "ch_1": "The exponent of a normally distributed random variables follows what is called the log-normal distribution",
+   "ch_2": "Sums of normally distributed random variables are again normally distributed even if the variables are dependent",
+   "ch_3": "The square of a standard normal random variable follows what is called chi-squared distribution",
+   "ch_4": "All of the Mentioned",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 20,
+   "level": 1,
+   "question": "Undesirable consequences which causes estimated population variance to appear less as compared to real results are classified as",
+   "ch_1": "undesired error",
+   "ch_2": "bias",
+   "ch_3": "non-calculate error",
+   "ch_4": "non-zero error",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 21,
+   "level": 2,
+   "question": "A is an upper triangular with all diagonal entries zero, then I+A is",
+   "ch_1": "invertible",
+   "ch_2": "idempotent",
+   "ch_3": "singular",
+   "ch_4": "nilpotent",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 22,
+   "level": 2,
+   "question": "A is  matrix, all of whose entries are 1, then",
+   "ch_1": "A is not diagonalizable",
+   "ch_2": "A is idempotent",
+   "ch_3": "A is nilpotent",
+   "ch_4": "The minimal polynomial and the characteristics polynomial of A are not equal.",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 23,
+   "level": 2,
+   "question": "M is a 2-square matrix of rank 1, then M is",
+   "ch_1": "diagonalizable and non singular",
+   "ch_2": "diagonalizable and nilpotent",
+   "ch_3": "neither diagonalizable nor nilpotent",
+   "ch_4": "either diagonalizable or nilpotent",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 24,
+   "level": 2,
+   "question": "The hash function is H1(k) = k % 50. In the case of collision, the hash function used is H(k) = (H1(k) + M x H2(k)) % 50 where H1(k) = k % 50 and H2(k) = k % 20. M is initialized to 0 and is incremented by 1 each time a collision occurs. This could be categorized under which of the following collision detection technic",
+   "ch_1": "Linear Probing",
+   "ch_2": "Quadratic Probing",
+   "ch_3": "Re-Hashing",
+   "ch_4": "Double Hashing",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 25,
+   "level": 2,
+   "question": "A graph with n vertices will definitely have a parallel edge or self loop of the total number of edges are",
+   "ch_1": "more than n",
+   "ch_2": "more than n+1",
+   "ch_3": "more than (n+1)/2",
+   "ch_4": "more than n(n+1)/2",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 26,
+   "level": 2,
+   "question": "Let A be an adjacency matrix of a graph G. The ij entry in the matrix A^k , gives",
+   "ch_1": "",
+   "ch_2": "",
+   "ch_3": "",
+   "ch_4": "",
+   "answer": ""
+ },
+ {
+   "si_no": 27,
+   "level": 2,
+   "question": "A _________ is a decision support tool that uses a tree-like graph or model of decisions and their possible consequences, including chance event outcomes, resource costs, and utility. ",
+   "ch_1": "Decision tree",
+   "ch_2": "Graph",
+   "ch_3": "Tree",
+   "ch_4": "Neural Netowrks",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 28,
+   "level": 2,
+   "question": "Chance Nodes are represented by,",
+   "ch_1": "Disks",
+   "ch_2": "Squares",
+   "ch_3": "Circles",
+   "ch_4": "Triangles",
+   "answer": "Ch-3"
+ },
+ {
+   "si_no": 29,
+   "level": 2,
+   "question": "End Nodes are represented by __________",
+   "ch_1": "Disks       ",
+   "ch_2": "Squares",
+   "ch_3": "Circles",
+   "ch_4": "Triangles",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 30,
+   "level": 2,
+   "question": " Following are the advantage/s of Decision Trees. Choose that apply.",
+   "ch_1": "Possible Scenarios can be added",
+   "ch_2": "Use a white box model, If given result is provided by a model",
+   "ch_3": "Worst, best and expected values can be determined for different scenarios",
+   "ch_4": "All of the mentioned",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 31,
+   "level": 2,
+   "question": "How many issues are available in describing degree of belief?",
+   "ch_1": "1",
+   "ch_2": "2",
+   "ch_3": "3",
+   "ch_4": "4",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 32,
+   "level": 2,
+   "question": "What is used for probability theory sentences?",
+   "ch_1": "Conditional logic",
+   "ch_2": "Logic",
+   "ch_3": "Extension of propositional logic",
+   "ch_4": "None of the mentioned",
+   "answer": "Ch-3"
+ },
+ {
+   "si_no": 33,
+   "level": 2,
+   "question": "Where does the dependance of experience is reflected in prior probability sentences?",
+   "ch_1": "Syntactic distinction",
+   "ch_2": "Semantic distinction",
+   "ch_3": "Both Syntactic & Semantic distinction",
+   "ch_4": " None of the mentioned",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 34,
+   "level": 2,
+   "question": "How many formal languages are used for stating propositions?",
+   "ch_1": "1",
+   "ch_2": "2",
+   "ch_3": "3",
+   "ch_4": "4",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 35,
+   "level": 2,
+   "question": "Which is the complete specification of the state of the world?",
+   "ch_1": "Atomic event",
+   "ch_2": "Complex event",
+   "ch_3": "Simple event",
+   "ch_4": " None of the mentioned",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 36,
+   "level": 2,
+   "question": "Which variable cannot be written in entire distribution as a table?",
+   "ch_1": "Discrete",
+   "ch_2": "Continuous",
+   "ch_3": " Both Discrete & Continuous",
+   "ch_4": " None of the mentioned",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 37,
+   "level": 2,
+   "question": "What is meant by probability density function?",
+   "ch_1": "Probability distributions",
+   "ch_2": "Continuous variable",
+   "ch_3": "Discrete variable",
+   "ch_4": "Probability distributions for Continuous variables",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 38,
+   "level": 2,
+   "question": "What is needed to make probabilistic systems feasible in the world?",
+   "ch_1": "Reliability",
+   "ch_2": "Crucial robustness",
+   "ch_3": "Feasibility",
+   "ch_4": "None of the mentioned",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 39,
+   "level": 2,
+   "question": "Where does the bayes rule can be used?",
+   "ch_1": "Solving queries",
+   "ch_2": "Increasing complexity",
+   "ch_3": "Decreasing complexity",
+   "ch_4": "Answering probabilistic query",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 40,
+   "level": 2,
+   "question": "How the entries in the full joint probability distribution can be calculated?",
+   "ch_1": "Using variables",
+   "ch_2": "Using information",
+   "ch_3": " Both Using variables & information",
+   "ch_4": "None of the mentioned",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 41,
+   "level": 3,
+   "question": "If a square matrix of order 10 has exactly 5 distinct eigen values, then the degree of the minimal polynomial is",
+   "ch_1": "at least 5",
+   "ch_2": "at most 5",
+   "ch_3": "always 5",
+   "ch_4": "exactly 10",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 42,
+   "level": 3,
+   "question": "A and B are n-square positive definite matrices. Then which of the following are positive definite.",
+   "ch_1": "A+B",
+   "ch_2": "ABA",
+   "ch_3": "AB",
+   "ch_4": "A^2+I",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 43,
+   "level": 3,
+   "question": "Let T be a linear operator on the vector space V and T be invariant under the subspace W of V. Then [\\in represent belongs to symbol]",
+   "ch_1": " T(W)\\in W",
+   "ch_2": " W\\in T(W)",
+   "ch_3": " T(W)=W",
+   "ch_4": "None of these",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 44,
+   "level": 3,
+   "question": "An adjacency matrix representation of a graph cannot contain information of :",
+   "ch_1": "nodes",
+   "ch_2": "edges",
+   "ch_3": "direction of edges",
+   "ch_4": "parallel edges",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 45,
+   "level": 3,
+   "question": "Where does the degree of belief are applied?",
+   "ch_1": "Propositions",
+   "ch_2": "Literals",
+   "ch_3": "Variables",
+   "ch_4": "Statements",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 46,
+   "level": 3,
+   "question": "Which of the following evaluation metrics can be used to evaluate a model while modeling a continuous output variable?",
+   "ch_1": "AUC-ROC",
+   "ch_2": "Accuracy",
+   "ch_3": "Logloss",
+   "ch_4": "Mean-Squared-Error",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 47,
+   "level": 3,
+   "question": "Which of the following is true about Residuals ?",
+   "ch_1": "Lower is better",
+   "ch_2": "Higher is better",
+   "ch_3": "A or B depend on the situation",
+   "ch_4": "None of these",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 48,
+   "level": 3,
+   "question": "Suppose that we have N independent variables (X1,X2… Xn) and dependent variable is Y. Now Imagine that you are applying linear regression by fitting the best fit line using least square error on this data.  You found that correlation coefficient for one of it’s variable(Say X1) with Y is -0.95. Which of the following is true for X1?",
+   "ch_1": "Relation between the X1 and Y is weak",
+   "ch_2": "Relation between the X1 and Y is strong",
+   "ch_3": "Relation between the X1 and Y is neutral",
+   "ch_4": "Correlation can’t judge the relationship",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 49,
+   "level": 3,
+   "question": "Looking at above two characteristics, which of the following option is the correct for Pearson correlation between V1 and V2?  If you are given the two variables V1 and V2 and they are following below two characteristics.  1. If V1 increases then V2 also increases  2. If V1 decreases then V2 behavior is unknown",
+   "ch_1": "Pearson correlation will be close to 1",
+   "ch_2": "Pearson correlation will be close to -1",
+   "ch_3": "Pearson correlation will be close to 0",
+   "ch_4": "None of these",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 50,
+   "level": 3,
+   "question": "Suppose you plotted a scatter plot between the residuals and predicted values in linear regression and you found that there is a relationship between them. Which of the following conclusion do you make about this situation?",
+   "ch_1": "Since the there is a relationship means our model is not good",
+   "ch_2": "Since the there is a relationship means our model is good",
+   "ch_3": "Can’t say",
+   "ch_4": "None of these",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 51,
+   "level": 3,
+   "question": "Which of these will not be distributed on a discrete distribution?",
+   "ch_1": "The number of houses in a colony",
+   "ch_2": "The number of bedrooms in a house",
+   "ch_3": "The number of scratches on a car hood",
+   "ch_4": "The diameter of a car tire",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 52,
+   "level": 3,
+   "question": "If a card is chosen from a deck of cards, what is the probability that it is either 7 or 9?",
+   "ch_1": "4/52",
+   "ch_2": "7/52",
+   "ch_3": "9/52",
+   "ch_4": "8/52",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 53,
+   "level": 3,
+   "question": "OC curve can be used to determine the probability of ____",
+   "ch_1": "Type I error",
+   "ch_2": "Type II error",
+   "ch_3": "Both type I and type II error",
+   "ch_4": "Neither type I nor type II error",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 54,
+   "level": 3,
+   "question": "Which of the expression represents the mean of Pascal distribution?",
+   "ch_1": "r/p",
+   "ch_2": "np",
+   "ch_3": "nD/N",
+   "ch_4": "np(1-p)",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 55,
+   "level": 3,
+   "question": "If a variable x is having its value equal to the exponential function of another variable w, i.e. “x=exp⁡(w)”, and w has normal distribution; the distribution of x is called _______",
+   "ch_1": "Normal distribution",
+   "ch_2": "Exponential distribution",
+   "ch_3": "Lognormal distribution",
+   "ch_4": "Gamma distribution",
+   "answer": "Ch-3"
+ },
+ {
+   "si_no": 56,
+   "level": 3,
+   "question": "Which of these can be used to estimate capability of the process?",
+   "ch_1": "Control charts",
+   "ch_2": "Process mean",
+   "ch_3": "Acceptance Sampling",
+   "ch_4": "Designed Experiments",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 57,
+   "level": 3,
+   "question": " Which of these gives a correct definition of continuous distributions?",
+   "ch_1": "Probability distribution of the variable being measured which takes on random values",
+   "ch_2": "Probability distribution of the variable being measured which takes on values dependent over a calculated mechanism",
+   "ch_3": "Probability distribution of the variable which takes some certain values such as integers",
+   "ch_4": "Probability distribution of the variable being measured that takes values on continuous scale",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 58,
+   "level": 3,
+   "question": "Control charts for central tendency and the variability are called ______ control charts.",
+   "ch_1": "Variables ",
+   "ch_2": "Attributes",
+   "ch_3": "Acceptance  ",
+   "ch_4": "Rejections",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 59,
+   "level": 3,
+   "question": "The control charts formed for judgment of conformities and non-conformities are called ______ control charts.",
+   "ch_1": "Variables ",
+   "ch_2": "Attributes",
+   "ch_3": "Acceptance",
+   "ch_4": "Rejections",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 60,
+   "level": 3,
+   "question": "In such situation which of the following options would you consider?  I will add more variables I will start introducing polynomial degree variables I will remove some variables",
+   "ch_1": "1 and 2",
+   "ch_2": "3 and 2",
+   "ch_3": "1 and 3",
+   "ch_4": "1,2 and 3",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 61,
+   "level": 4,
+   "question": "In an M'N matrix such that all non-zero entries are covered in a rows and b columns. Then the maximum number of non-zero entries, such that no two are on the same row or column, is",
+   "ch_1": "≤ a + b",
+   "ch_2": "≤ max {a, b}",
+   "ch_3": "≤ min {M-a, N-b}",
+   "ch_4": "≤ min {a, b}",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 62,
+   "level": 4,
+   "question": "S1: The sum of two singular n × n matrices may be non-singular S2: The sum of two n × n non-singular matrices may be singular.",
+   "ch_1": "S1 and S2 are both true",
+   "ch_2": "S1 is true, S2 is false",
+   "ch_3": "S1 is false, S2 is true",
+   "ch_4": "S1 and S2 are both false",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 63,
+   "level": 4,
+   "question": "The input image has been converted into a matrix of size 28 X 28 and a kernel/filter of size 7 X 7 with a stride of 1. What will be the size of the convoluted matrix?",
+   "ch_1": "22 X 22",
+   "ch_2": "21 X 21",
+   "ch_3": "28 X 28",
+   "ch_4": "7X7",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 64,
+   "level": 4,
+   "question": " In a simple MLP model with 8 neurons in the input layer, 5 neurons in the hidden layer and 1 neuron in the output layer. What is the size of the weight matrices between hidden output layer and input hidden layer?",
+   "ch_1": "[1 X 5] , [5 X 8]",
+   "ch_2": "[8 X 5] , [ 1 X 5]",
+   "ch_3": "8 X 5] , [5 X 1]",
+   "ch_4": "5 x 1] , [8 X 5]",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 65,
+   "level": 4,
+   "question": "Which of the following functions can be used as an activation function in the output layer if we wish to predict the probabilities of n classes (p1, p2..pk) such that sum of p over all n equals to 1? ",
+   "ch_1": "Softmax",
+   "ch_2": "ReLu",
+   "ch_3": "Sigmoid",
+   "ch_4": "Tanh",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 66,
+   "level": 4,
+   "question": "Suppose, You applied a Logistic Regression model on a given data and got a training accuracy X and testing accuracy Y. Now, you want to add a few new features in the same data. Select the option(s) which is/are correct in such a case.  Note: Consider remaining parameters are same.",
+   "ch_1": "Training accuracy increases",
+   "ch_2": "Training accuracy increases or remains the same",
+   "ch_3": "Testing accuracy decreases",
+   "ch_4": "Testing accuracy increases or remains the same",
+   "answer": "Ch-1,4"
+ },
+ {
+   "si_no": 67,
+   "level": 4,
+   "question": "Choose which of the following options is true regarding One-Vs-All method in Logistic Regression.",
+   "ch_1": "We need to fit n models in n-class classification problem",
+   "ch_2": "We need to fit n-1 models to classify into n classes",
+   "ch_3": "We need to fit only 1 model to classify into n classes",
+   "ch_4": "None of these",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 68,
+   "level": 4,
+   "question": "Which of the following are universal approximators?",
+   "ch_1": "Kernel SVM",
+   "ch_2": "Neural Networks",
+   "ch_3": "Boosted Decision Trees",
+   "ch_4": "All of the above",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 69,
+   "level": 4,
+   "question": "Which of the following methods do we use to best fit the data in Logistic Regression?",
+   "ch_1": "Least Square Error",
+   "ch_2": "Maximum Likelihood",
+   "ch_3": "Jaccard distance",
+   "ch_4": "Both A and B",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 70,
+   "level": 4,
+   "question": "Which of the following evaluation metrics can not be applied in case of logistic regression output to compare with target?",
+   "ch_1": "AUC-ROC",
+   "ch_2": "Accuracy",
+   "ch_3": "Logloss",
+   "ch_4": "Mean-Squared-Error",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 71,
+   "level": 4,
+   "question": "One of the very good methods to analyze the performance of Logistic Regression is AIC, which is similar to R-Squared in Linear Regression. Which of the following is true about AIC?",
+   "ch_1": "We prefer a model with minimum AIC value",
+   "ch_2": "We prefer a model with maximum AIC value",
+   "ch_3": "Both but depend on the situation",
+   "ch_4": "None of these",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 72,
+   "level": 4,
+   "question": "For a Pascal distribution; r=3 and the probability of success is 0.7895. What will be the value of “σ”?",
+   "ch_1": "1.0131",
+   "ch_2": "3",
+   "ch_3": "1.0065",
+   "ch_4": "1.732",
+   "answer": "Ch-3"
+ },
+ {
+   "si_no": 73,
+   "level": 4,
+   "question": "Which of these cannot be displayed by the box plot?",
+   "ch_1": "Location or central tendency",
+   "ch_2": "Spread",
+   "ch_3": "Departure from symmetry",
+   "ch_4": "Mean of the data",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 74,
+   "level": 4,
+   "question": "What is the purpose of multiple testing in statistical inference ?",
+   "ch_1": "Minimize errors",
+   "ch_2": "Minimize false positives",
+   "ch_3": "Minimize false negatives",
+   "ch_4": "All of the Mentioned",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 75,
+   "level": 4,
+   "question": "Which of the following tool is used for constructing confidence intervals and calculating standard errors for difficult statistics ?",
+   "ch_1": "baggyer",
+   "ch_2": "bootstrap",
+   "ch_3": "jacknife",
+   "ch_4": "none of the above mentioned",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 76,
+   "level": 4,
+   "question": "Predicting with trees evaluate _____________ within each group of data.",
+   "ch_1": "equality",
+   "ch_2": "homogeneity",
+   "ch_3": "heterogeneity",
+   "ch_4": "all of the Mentioned",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 77,
+   "level": 4,
+   "question": "Point out the wrong statement:",
+   "ch_1": "Training and testing data must be processed in different way",
+   "ch_2": "Test transformation would mostly be imperfect",
+   "ch_3": "The first goal is statistical and second is data compression in PCA",
+   "ch_4": "All of the Mentioned",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 78,
+   "level": 4,
+   "question": "Which of the following method options is provided by train function for bagging ?",
+   "ch_1": "bagEarth",
+   "ch_2": "treebag",
+   "ch_3": "bagFDA",
+   "ch_4": "all of the Mentioned",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 79,
+   "level": 4,
+   "question": "Which of the following is correct with respect to random forest?",
+   "ch_1": "Random forest are difficult to interpret but often very accurate",
+   "ch_2": "Random forest are easy to interpret but often very accurate",
+   "ch_3": "Random forest are difficult to interpret but very less accurate",
+   "ch_4": "None of the Mentioned",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 80,
+   "level": 4,
+   "question": "Point out the correct statement:",
+   "ch_1": "Prediction with regression is easy to implement",
+   "ch_2": "Prediction with regression is easy to interpret",
+   "ch_3": "Prediction with regression performs well when linear model is correct",
+   "ch_4": "All of the Mentioned",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 81,
+   "level": 5,
+   "question": "Consider the following system of equations in three real variables xl, x2 and x3 2x1 - x2 + 3x3 = 1 3x1- 2x2 + 5x3 = 2 -x1 + 4x2 + x3 = 3 This system of equations has",
+   "ch_1": "no solution",
+   "ch_2": "a unique solution",
+   "ch_3": "more than one but a finite number of solutions",
+   "ch_4": "an infinite number of solutions",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 82,
+   "level": 5,
+   "question": "Which one of the following statements is TRUE about every",
+   "ch_1": "If the trace of the matrix is positive and the determinant of the matrix is negative, at least one of its eigenvalues is negative.",
+   "ch_2": "If the trace of the matrix is positive, all its eigenvalues are positive.",
+   "ch_3": "If the determinant of the matrix is positive, all its eigenvalues are positive.",
+   "ch_4": "If the product of the trace and determinant of the matrix is positive, all its eigenvalues are positive.",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 83,
+   "level": 5,
+   "question": "Consider the function f(x) = sin(x) in the interval [π/4, 7π/4]. The number and location(s) of the local minima of this function are",
+   "ch_1": "One, at π/2",
+   "ch_2": "One, at 3π/2",
+   "ch_3": "Two, at π/2 and 3π/2",
+   "ch_4": "Two, at π/4 and 3π/2",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 84,
+   "level": 5,
+   "question": "The bisection method is applied to compute a zero of the function f(x) = x^4 – x^3 – x^2 – 4 in the interval [1,9]. The method converges to a solution after ––––– iterations",
+   "ch_1": "1",
+   "ch_2": "3",
+   "ch_3": "5",
+   "ch_4": "7",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 85,
+   "level": 5,
+   "question": "In a min-heap with n elements with the smallest element at the root, the 7th smallest element can be found in time",
+   "ch_1": "Θ(nlogn)",
+   "ch_2": "Θ(n)",
+   "ch_3": "Θ(logn)",
+   "ch_4": "Θ(1)",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 86,
+   "level": 5,
+   "question": "Let G be an arbitrary graph with n nodes and k components. If a vertex is removed from G, the number of components in the resultant graph must necessarily lie down between",
+   "ch_1": "k and n",
+   "ch_2": "k-1",
+   "ch_3": "k-1 and n-1",
+   "ch_4": "k+1 and n-k",
+   "answer": "Ch-3"
+ },
+ {
+   "si_no": 87,
+   "level": 5,
+   "question": "Consider the function y=|x| in the interval [−1,1]. In this interval, the function is",
+   "ch_1": "continuous and differentiable",
+   "ch_2": "continuous but not differentiable",
+   "ch_3": "differentiable but not continuous",
+   "ch_4": "neither continuous nor differentiable",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 88,
+   "level": 5,
+   "question": "Let f(x)=|x|^3/2,x∈R. Then",
+   "ch_1": "f is uniformly continuous.",
+   "ch_2": "is continuous, but not differentiable at x=0.",
+   "ch_3": "f is differentiable and f′ is continuous.",
+   "ch_4": "f is differentiable, but f′ is discontinuous at x=0.",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 89,
+   "level": 5,
+   "question": "Two eigenvalues of a 3×3 real matrix P are (2+√-1) and 3. The determinant of P is _______",
+   "ch_1": "5",
+   "ch_2": "10",
+   "ch_3": "15",
+   "ch_4": "20",
+   "answer": "ch-3"
+ },
+ {
+   "si_no": 90,
+   "level": 5,
+   "question": "Consider the random process:  X(t)=U+Vt  where U is zero-mean Gaussian random variable and V is a random variable uniformly distributed between 0 and 2. Assume U and V statistically independent. The mean value of random process at t=2 is ___________",
+   "ch_1": "3",
+   "ch_2": "2",
+   "ch_3": "5",
+   "ch_4": "7",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 91,
+   "level": 5,
+   "question": "If a certain normal distribution of X, the probability is 0.5 that X is less than 500 and 0.0227 that X is greater than 650. What is the standard deviation of X?  How to compute S.D, of above?",
+   "ch_1": "75",
+   "ch_2": "80",
+   "ch_3": "85",
+   "ch_4": "90",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 92,
+   "level": 5,
+   "question": "Let G be a complete undirected graph on 6 vertices. If vertices of G are labeled, then the number of distinct cycles of length 4 in G is equal to",
+   "ch_1": "15",
+   "ch_2": "45",
+   "ch_3": "90",
+   "ch_4": "360",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 93,
+   "level": 5,
+   "question": "How many distinct binary search trees can be created out of 4 distinct keys?",
+   "ch_1": "5",
+   "ch_2": "14",
+   "ch_3": "24",
+   "ch_4": "42",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 94,
+   "level": 5,
+   "question": "Let G be a simple connected planar graph with 13 vertices and 19 edges. Then, the number of faces in the planar embedding of the graph is:",
+   "ch_1": "6",
+   "ch_2": "8",
+   "ch_3": "9",
+   "ch_4": "13",
+   "answer": "Ch-2"
+ },
+ {
+   "si_no": 95,
+   "level": 5,
+   "question": "Consider a hash function that distributes keys uniformly. The hash table size is 20. After hashing of how many keys will the probability that any new key hashed collides with an existing one exceed 0.5.",
+   "ch_1": "6",
+   "ch_2": "8",
+   "ch_3": "10",
+   "ch_4": "12",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 96,
+   "level": 5,
+   "question": "Suppose there are two coins. The first coin gives heads with probability 5/8 when tossed, while the second coin gives heads with probability 1/4. One of the two coins is picked up at random with equal probability and tossed. What is the probability of obtaining heads ?",
+   "ch_1": "7/8",
+   "ch_2": "1/2",
+   "ch_3": "7/16",
+   "ch_4": "5/32",
+   "answer": "Ch-3"
+ },
+ {
+   "si_no": 97,
+   "level": 5,
+   "question": "f(x) is a differentiable function that satisfies 5 ≤ f′(x) ≤ 14 for all x. Let a and b be the maximum and minimum values, respectively, that f(11)−f(3) can possibly have, then what is the value of a+b?",
+   "ch_1": "150",
+   "ch_2": "152",
+   "ch_3": "45",
+   "ch_4": "47",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 98,
+   "level": 5,
+   "question": "Let V be the vector space of all 4×4 matrices such that the sum of the elements in any row or any column is the same. Then the dimension of V is",
+   "ch_1": "8",
+   "ch_2": "10",
+   "ch_3": "12",
+   "ch_4": "14",
+   "answer": "Ch-1"
+ },
+ {
+   "si_no": 99,
+   "level": 5,
+   "question": "Which of the following statements is true when you use 1×1 convolutions in a CNN?",
+   "ch_1": "It can help in dimensionality reduction",
+   "ch_2": "It can be used for feature pooling",
+   "ch_3": "It suffers less overfitting due to small kernel size",
+   "ch_4": "All of the above",
+   "answer": "Ch-4"
+ },
+ {
+   "si_no": 100,
+   "level": 5,
+   "question": "Context:  Statement 1: It is possible to train a network well by initializing all the weights as 0 Statement 2: It is possible to train a network well by initializing biases as 0  Which of the statements given above is true?",
+   "ch_1": "Statement 1 is true while Statement 2 is false",
+   "ch_2": "Statement 2 is true while statement 1 is false",
+   "ch_3": " Both statements are true",
+   "ch_4": "Both statements are false",
+   "answer": "Ch-2"
+ }
+]

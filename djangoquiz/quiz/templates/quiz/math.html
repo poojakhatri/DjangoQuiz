@@ -1,0 +1,58 @@
+{% extends "quiz/base.html" %}
+{% block content %}
+<form method="post">
+    {% csrf_token %}
+{% for quiz in quizz %}
+
+  <div class="form-group">
+    <label for="exampleFormControlTextarea1">Question:{{quiz.si_no}}</label>
+    <p class="form-control" id="question" rows="3">
+        {{ quiz.question }}
+    </p>
+  </div>
+
+   <!--  <label for="exampleFormControlSelect1">Answer Select</label>
+    <select class="form-control" id="exampleFormControlSelect1">
+      <option>1</option>
+      <option>2</option>
+      <option>3</option>
+      <option>4</option>
+     
+</select> -->
+
+  <div class="radio">
+    <label><input type="radio" name="{{quiz.si_no}}" value="ch_1" >{{ quiz.ch_1 }}</label>
+  </div>
+  <div class="radio">
+    <label><input type="radio" name="{{quiz.si_no}}" value="ch_2">{{ quiz.ch_2 }}</label>
+  </div>
+  <div class="radio ">
+    <label><input type="radio" name="{{quiz.si_no}}" value="ch_3" >{{quiz.ch_3}}</label>
+  </div>
+  <div class="radio ">
+    <label><input type="radio" name="{{quiz.si_no}}" value="ch_4">{{ quiz.ch_4 }}</label>
+  </div>
+{% endfor %}	  
+<button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+<div class="pagination">
+    <span class="step-links">
+        {% if quizz.has_previous %}
+            <a href="?page=1">&laquo; first</a>
+            <a href="?page={{ quizz.previous_page_number }}">previous</a>
+        {% endif %}
+
+        <span class="current">
+            Page {{ quizz.number }} of {{ quizz.paginator.num_pages }}.
+        </span>
+
+        {% if quizz.has_next %}
+            <a href="?page={{ quizz.next_page_number }}">next</a>k
+            <a href="?page={{ quizz.paginator.num_pages }}">last &raquo;</a>
+        {% endif %}
+    </span>
+</div>
+
+
+{% endblock content %}
